@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/tsobjects.ts","./src/tstype.ts"],"version":"5.7.2"}
+{"root":["./src/index.ts","./src/practice.ts","./src/tsinterface.ts","./src/tsobjects.ts","./src/tstype.ts"],"version":"5.7.2"}
